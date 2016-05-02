@@ -1,3 +1,5 @@
 Hi there,
 
 This is my first lesson in Git
+
+Hello Dayo, Hi Dika, Welcome Celestine
